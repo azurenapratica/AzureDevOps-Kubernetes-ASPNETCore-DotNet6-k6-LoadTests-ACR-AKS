@@ -4,4 +4,4 @@ Pipeline do Azure DevOps para execução automatizada de testes de carga (basead
 
 Projeto que serviu de base para a implementação deste Pipeline:
 
-https://github.com/renatogroffe/k6-LoadTests-Thresholds-Reports-ASPNETCore-SiteContagem
+https://github.com/azurenapratica/k6-LoadTests-Thresholds-Reports-ASPNETCore-SiteContagem
